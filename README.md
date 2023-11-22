@@ -6,7 +6,7 @@ This repository contains the SQL implementation of a Library Management System. 
 
 ### 1. Entity Relationship Model (ERM) Diagram
 - Entities: **Books**, **Borrowers**, and **Loans**
-![Blank diagram](https://github.com/AyahShraim/Library-Management-System-DatabaseProject/assets/73714621/79bf10c6-4c8b-4076-80e7-87feefa4ca4c)
+(![image](https://github.com/AyahShraim/Library-Management-System-DatabaseProject/assets/73714621/052a3b68-a2eb-4e86-b6ba-e95e4c16856e)
 
 
 ### 2. Relational Schema
